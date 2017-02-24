@@ -1,1 +1,1 @@
-Esta es una prueba para probar la sincronizacion entre Git y Source tree y entender mas del funcionamiento de estas herramientas. Ahora si agregamos cosas acá seguramente nos debiese dar una advertencia de su modificacion 
+Esta es una prueba para probar la sincronizacion entre Git y Source tree y entender mas del funcionamiento de estas herramientas. Ahora si agregamos cosas acá seguramente nos debiese dar una advertencia de su modificacion. Finalmente modificamos este texto en línea usando GitHub, Muy Bien!
